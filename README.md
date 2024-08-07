@@ -13,7 +13,7 @@ After the data sourcing we have used the obtained data and did the exploratory d
 5. Moving Averages: Measured over a fixed time period as the standard deviation of price changes.
 6. Price Levels: By categorizing continuous price data into discrete levels, the model can more easily learn typical behaviors or outcomes associated with specific price ranges.
 
-# Code Explination
+# Code Explanation
 The code provided demonstrates how the Q-learning model is implemented and applied to stock trading. We detail the functions and methods, explaining how each contributes to the overall learning and decision-making process of the agent.
 ## Initialization and Environment Setup
 The code begins with importing essential libraries and initializing the TradingEnvironment with historical stock data for Meta Platforms, Inc.
